@@ -1,2 +1,2 @@
 #!/bin/bash
-echho "" > hello
+echo "" > hello
