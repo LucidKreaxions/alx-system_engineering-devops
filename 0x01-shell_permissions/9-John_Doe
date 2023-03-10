@@ -1,2 +1,2 @@
 #!/bin/bash
-chown julien:julien hello
+chmod 713 hello chown julien:julien hello touch -d "2022-09-20 14:25:00" hello
