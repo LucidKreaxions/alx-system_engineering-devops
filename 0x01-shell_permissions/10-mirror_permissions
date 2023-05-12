@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod $olleh 715 hello
+chmod $olleh_mode hello
