@@ -1,2 +1,2 @@
 #!/bin/bash
-echo $PATH
+find . -mndepth 1 -type d | WC -l
