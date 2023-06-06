@@ -1,0 +1,2 @@
+#!/bin/bash
+echo "The result is $(echo "obase=bestchol; $((WATER + STIR))" | bc)"
